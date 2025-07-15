@@ -1,4 +1,5 @@
 # S-CAP: Mining Emissions
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15938126.svg)](https://doi.org/10.5281/zenodo.15938126)
 [![Update](https://img.shields.io/github/last-commit/ChristineAEvans/S-CAP_mining_emissions?label=repo%20last%20updated&style=flat-square)](https://github.com/ChristineAEvans/S-CAP_mining_emissions)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ChristineAEvans.S-CAP_mining_emissions)
 
@@ -23,7 +24,7 @@ To add the code repository 💾 directly to your GEE account, use the following 
 
 If this work is used in publications, presentations, or other venues, please cite 📝 the following:
 
-Evans, C. A., Walker, K. A., Abramowitz, J. C., Cherrington, E. A., Yupanqui, O., Quispe, M., Becerra, M., Mensah, F., Abubakari, B., Amponsah, M., Asare, E., & Novoa, S. (2025). S-CAP: Mining Emissions (Version 1.0.0.0) [Computer software]. https://doi.org/10.xx/zenodo.1xxxxxxx
+Evans, C. A., Walker, K. A., Abramowitz, J. C., Cherrington, E. A., Yupanqui, O., Quispe, M., Becerra, M., Mensah, F., Abubakari, B., Amponsah, M., Asare, E., & Novoa, S. (2025). S-CAP: Mining Emissions (Version 1.0.0.0) [Computer software]. https://doi.org/10.5281/zenodo.15938126
 
 ## Contact information
 
