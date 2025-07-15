@@ -1,4 +1,4 @@
-# S-CAP Mining Emissions
+# S-CAP: Mining Emissions
 [![Update](https://img.shields.io/github/last-commit/ChristineAEvans/S-CAP_mining_emissions?label=repo%20last%20updated&style=flat-square)](https://github.com/ChristineAEvans/S-CAP_mining_emissions)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ChristineAEvans.S-CAP_mining_emissions)
 
